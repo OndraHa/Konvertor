@@ -12,6 +12,7 @@
 		195D976F29D3864E00F58C76 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 195D976E29D3864E00F58C76 /* Assets.xcassets */; };
 		195D977229D3864E00F58C76 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 195D977129D3864E00F58C76 /* Preview Assets.xcassets */; };
 		195D977929D560C900F58C76 /* ConvertDistanceView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 195D977829D560C900F58C76 /* ConvertDistanceView.swift */; };
+		19D9EBD729DB1C4900B4B87B /* ConvertVolumeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 19D9EBD629DB1C4900B4B87B /* ConvertVolumeView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -21,6 +22,7 @@
 		195D976E29D3864E00F58C76 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		195D977129D3864E00F58C76 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		195D977829D560C900F58C76 /* ConvertDistanceView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConvertDistanceView.swift; sourceTree = "<group>"; };
+		19D9EBD629DB1C4900B4B87B /* ConvertVolumeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConvertVolumeView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 				195D976A29D3864D00F58C76 /* KonvertorApp.swift */,
 				195D976C29D3864D00F58C76 /* ContentView.swift */,
 				195D977829D560C900F58C76 /* ConvertDistanceView.swift */,
+				19D9EBD629DB1C4900B4B87B /* ConvertVolumeView.swift */,
 				195D976E29D3864E00F58C76 /* Assets.xcassets */,
 				195D977029D3864E00F58C76 /* Preview Content */,
 			);
@@ -142,6 +145,7 @@
 			files = (
 				195D976D29D3864D00F58C76 /* ContentView.swift in Sources */,
 				195D977929D560C900F58C76 /* ConvertDistanceView.swift in Sources */,
+				19D9EBD729DB1C4900B4B87B /* ConvertVolumeView.swift in Sources */,
 				195D976B29D3864D00F58C76 /* KonvertorApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
