@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		1922251B29DF35C80089641D /* LinkView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1922251A29DF35C80089641D /* LinkView.swift */; };
+		1922251D29DF73490089641D /* ConvertSpeedView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1922251C29DF73490089641D /* ConvertSpeedView.swift */; };
 		195D976B29D3864D00F58C76 /* KonvertorApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 195D976A29D3864D00F58C76 /* KonvertorApp.swift */; };
 		195D976D29D3864D00F58C76 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 195D976C29D3864D00F58C76 /* ContentView.swift */; };
 		195D976F29D3864E00F58C76 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 195D976E29D3864E00F58C76 /* Assets.xcassets */; };
@@ -16,6 +18,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		1922251A29DF35C80089641D /* LinkView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LinkView.swift; sourceTree = "<group>"; };
+		1922251C29DF73490089641D /* ConvertSpeedView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConvertSpeedView.swift; sourceTree = "<group>"; };
 		195D976729D3864D00F58C76 /* Konvertor.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Konvertor.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		195D976A29D3864D00F58C76 /* KonvertorApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KonvertorApp.swift; sourceTree = "<group>"; };
 		195D976C29D3864D00F58C76 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -57,7 +61,9 @@
 			children = (
 				195D976A29D3864D00F58C76 /* KonvertorApp.swift */,
 				195D976C29D3864D00F58C76 /* ContentView.swift */,
+				1922251C29DF73490089641D /* ConvertSpeedView.swift */,
 				195D977829D560C900F58C76 /* ConvertDistanceView.swift */,
+				1922251A29DF35C80089641D /* LinkView.swift */,
 				19D9EBD629DB1C4900B4B87B /* ConvertVolumeView.swift */,
 				195D976E29D3864E00F58C76 /* Assets.xcassets */,
 				195D977029D3864E00F58C76 /* Preview Content */,
@@ -147,6 +153,8 @@
 				195D977929D560C900F58C76 /* ConvertDistanceView.swift in Sources */,
 				19D9EBD729DB1C4900B4B87B /* ConvertVolumeView.swift in Sources */,
 				195D976B29D3864D00F58C76 /* KonvertorApp.swift in Sources */,
+				1922251D29DF73490089641D /* ConvertSpeedView.swift in Sources */,
+				1922251B29DF35C80089641D /* LinkView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
